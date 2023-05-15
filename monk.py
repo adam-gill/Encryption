@@ -10,6 +10,8 @@ from cryptography.fernet import Fernet
 
 #test #2
 
+# test 3
+
 
 if not os.path.exists('out.txt'):
     file = open('out.txt', 'wb')
