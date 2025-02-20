@@ -6,10 +6,6 @@ from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 from cryptography.fernet import Fernet
 
-# my key = b'KCeG-7jM4fe5gIgyrG6imwNpePqadM5Gp1Qx-yI4r3E='
-
-# test key = b'cVWo8Y3KwhfZy6XTF9tMGARIzNrCRnWbzF6H0yKv0as='
-
 
 if not os.path.exists('out.txt'):
     file = open('out.txt', 'wb')
