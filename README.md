@@ -1,1 +1,2 @@
-My first real program  :) - Encryption
+# Encryption
+my first real program :) (be warned)
